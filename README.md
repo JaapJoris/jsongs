@@ -1,9 +1,9 @@
 Songs that start with a J
 =========================
 
-This is an exercise in using the YouTube Data API to search for videos and add them to a playlist. The result can be found here:
+This is an exercise in using the YouTube Data API to search for videos and add them to a playlist. This is the result:
 
-> [YouTube playlist "Songs that start with a J"](https://www.youtube.com/playlist?list=PLYs0aeHq8nRIIkQGFVdEdedShRTE_SDnH)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLYs0aeHq8nRIIkQGFVdEdedShRTE_SDnH" frameborder="0" allowfullscreen></iframe>
 
 If you want to create a playlist for yourself, perform the following steps:
 
