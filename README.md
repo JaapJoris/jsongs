@@ -7,16 +7,16 @@ https://www.youtube.com/playlist?list=PLYs0aeHq8nRIIkQGFVdEdedShRTE_SDnH
 
 If you want to create a playlist for yourself, perform the following steps:
 
-- Create a project on the [Google API Console](https://code.google.com/apis/console/) and enable the "YouTube Data API"
+1. Create a project on the [Google API Console](https://code.google.com/apis/console/) and enable the "YouTube Data API"
 
-- Add OAuth2 credentials to your project. Save them in a file called `client_secrets.json`.
+2. Add OAuth2 credentials to your project. Save them in a file called `client_secrets.json`.
 
-- Install the Google API Python client:
+3. Install the Google API Python client:
 
-      $ pip install --upgrade google-api-python-client
+        $ pip install --upgrade google-api-python-client
 
-- Place a list of songs that start with your favorite letter in a file named `songs.txt`
+4. Place a list of songs that start with your favorite letter in a file named `songs.txt`
 
-- Run `runme.py`
+5. Run `runme.py`
 
 Enjoy!
